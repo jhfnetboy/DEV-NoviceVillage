@@ -32,6 +32,7 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 # 🚇 文档
 
 状态 🏃 进行中 ❤️ 任领(人员添加) 🔍 小夥伴检视中 🎉 完成
+  - 请按序号后的名称选择对应Github目录进入学习，例如0️⃣  基础知识，对应了Github [0.基础知识]目录。
 
 0️⃣  基础知识：❤️ @0xRory
 
@@ -43,9 +44,9 @@ Video：Talk and store to Youtube，每周一次，开放给所有人 (文档建
 
 Token:
 
-- ERC20 語法導讀
+- ERC20 語法導讀 ❤️ @jhfnetboy
 
-- 用 ERC20 發幣，操作 ERC20 合約
+- 用 ERC20 發幣，操作 ERC20 合約 ❤️ @jhfnetboy
 
 NFT:
 
@@ -119,16 +120,16 @@ Defi:
 4.網頁串接區塊鏈資料與連結錢包
   * 去 Etherscan 拉 Abi+ 控制
 
-5.  proxy 合約原理
-6.  The Graph（SubGraph）, appollo
-7.  Storage: Ar, IPFS
-8.  Serverside API: Go, gin (CRUD) 後台服務
-9.  Chainlink VRF
-10. MEV
-11. Defi
-12. Dapp
-13. Dex
-14. DID、SBT
+1.  proxy 合約原理
+2.  The Graph（SubGraph）, appollo
+3.  Storage: Ar, IPFS
+4.  Serverside API: Go, gin (CRUD) 後台服務
+5.  Chainlink VRF
+6.  MEV
+7.  Defi
+8.  Dapp
+9.  Dex
+10. DID、SBT
 
 
 3️⃣ 进阶开发
